@@ -1,0 +1,30 @@
+{
+    "ru" : {
+        "PPEvent" : {
+            "beforeHour"     : "Ивент начнется через час",
+            "beforeHalfHour" : "Ивент начнется через полчаса",
+            "before2Min"     : "Ивент начнется через 2 минуты около ",
+            "start"          : "Ивент начался около",
+            "win"            : "Победа. Кулдаун уменьшен на 30 м.\nСледующий ивент через 1ч. 50мин.",
+            "defeat"         : "Поражение. Кулдаун увеличен на 5 м.\nСледующий ивент через 1ч. 50мин.",
+            "boostEnd"       : "Кулдаун вернулся в нормальное состояние",
+            "badBoostEnd"    : "Кулдаун вернулся в нормальное состояние",
+
+            "timeToNext"     : "Время до следующего ивента: "
+        }
+    },
+    "en" : {
+        "PPEvent" : {
+            "beforeHour"     : "Event will begin in an hour",
+            "beforeHalfHour" : "Event will begin in half an hour",
+            "before2Min"     : "Event will begin in 2 minutes near ",
+            "start"          : "Event started near",
+            "win"            : "Win. Cooldown reduced",
+            "defeat"         : "Defeat. Cooldown increased",
+            "boostEnd"       : "Cooldown returned to normal",
+            "badBoostEnd"    : "Cooldown returned to normal",
+
+            "timeToNext"     : "Time to next event: "
+        }
+    }
+}
